@@ -108,5 +108,5 @@ _______________________________________________________________
 
 
 
-![entrada](img/entrada-blog.PNG)
+![entrada](img/entrada-blog.png)
 
